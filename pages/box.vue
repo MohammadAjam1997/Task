@@ -1,13 +1,8 @@
 <template>
   <div class="">
-    <v-row 
-          ><h1>Box Shadow Generator</h1>
-          <p>
-            Wygodne narzędzie, dzięki któremu wygenerujesz gotowe reguły CSS.
-            Dostosuj box shadow i skopiuj gotowy kod. s
-          </p></v-row
-        >
+  
     <v-row style="background-color: white" class="p">
+   
       <v-col cols="3" class="primary--text me-16" style="background-color: white;box-shadow: 1px 1px 1px 1px whitesmoke; ">
         CSS box-shadow
         <br />
